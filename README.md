@@ -1,6 +1,4 @@
 # latihan-branch
 
 ==
-
-
-halo
+Belajar Github di Dicoding itu seru!
